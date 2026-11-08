@@ -1,0 +1,8 @@
+{
+  "name": "Gabriel's Portfolio Analytics Hub",
+  "description": "Tactical Growth & KPEG Analytics platform featuring portfolio allocation breakdown, multi-year projection simulations, and asymmetric valuation theses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
